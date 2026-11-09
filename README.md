@@ -16,6 +16,10 @@ Projeyi bilgisayarınıza indirdikten sonra `index.html` dosyasını bir web tar
 
 Hata bildirimleri ve geliştirme önerileri için GitHub Issues bölümünü kullanabilirsiniz.
 
+## Takip edin
+
+Aftafa Jumper’ı yapan kişiyi TikTok’ta takip edin: [@why_things](https://www.tiktok.com/@why_things? Takip etmeyi unutmayın!)
+
 ## Lisans
 
 Bu depo için henüz bir lisans belirtilmemiştir.
